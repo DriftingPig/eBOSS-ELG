@@ -1,0 +1,3 @@
+slurmstepd: error: execve(): /global/u2/h/huikong/eboss/Corr_Core/./test.sh: Exec format error
+srun: error: nid00006: task 0: Exited with exit code 8
+srun: Terminating job step 6940370.0
